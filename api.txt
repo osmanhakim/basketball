@@ -1,0 +1,52 @@
+2025/4/16 wednesday
+aboutUs 
+ php artisan make:model AboutUs -msc
+
+frontend : 
+i18next ..
+email setup 
+improve looks of gallery images
+
+----------
+slider
+feature 
+about
+gallery `+ filter = list state 
+testimonials only text
+section
+
+--------------
+projects --> gallery --> both must have 
+id            title  --> translations table
+              subtitle
+name 
+
+one to many
+
+
+------------
+planning ..
+state:{
+lang:"en";
+i18n:{}
+list:[]
+}
+
+-----
+sliders 
+http://localhost:8000/api/v1/sliders/1
+http://localhost:8000/api/v1/features
+http://localhost:8000/api/v1/about/1
+http://localhost:8000/api/v1/about
+http://localhost:8000/api/v1/project
+http://localhost:8000/api/v1/project/1
+http://localhost:8000/api/v1/testimonials 
+http://localhost:8000/api/v1/homePageSlider              homePageSlider
+http://localhost:8000/api/v1/secondPageSlider            secondPageSlider
+--------
+admin dashboard                                                 
+sliders
+feature
+project  
+Testimonials
+need photo and about sections

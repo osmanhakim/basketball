@@ -1,0 +1,10 @@
+slider [add select slide as home page or gallery page  or both]
+testimonial [view show edit update delete ]
+about [works]
+photo [works] crud
+allow to edit 
+AboutRequest
+learn basketball 
+video section  
+store section
+profiles section

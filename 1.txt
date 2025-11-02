@@ -1,0 +1,17 @@
+in reactjs frontend .. 
+1 - define list of sets 
+0 => home 
+1 => about
+2 => gallery
+3 => reviews
+4 => lesson
+
+header is just a mapping list to li navbar
+
+once mouse enter section 
+create arr and assign value 
+function simple function take index return arr with false values except at index location
+call this function 
+then setList ..
+--------------------------------
+
