@@ -1,0 +1,33 @@
+.VideoItem {
+    background-color: #A9A9A9;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    max-width: 438px;
+    max-height: 359px;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 13px;
+    font-size: 14px;
+    z-index: 5;
+}
+
+.VideoItem img {
+    width: 400px;
+    height: 200px;
+    border-radius: 13px;
+
+}
+
+.VideoItem h3 {
+    color: #fff;
+
+    text-align: justify;
+
+}
+
+.VideoItem p {
+    color: #fff;
+    text-align: justify;
+
+}

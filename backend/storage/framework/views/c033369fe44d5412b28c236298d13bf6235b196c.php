@@ -1,0 +1,21 @@
+<div class="footer bg-white py-4 d-flex flex-lg-column" id="kt_footer">
+    <!--begin::Container-->
+    <div class="container-fluid d-flex flex-column flex-md-row align-items-center justify-content-between">
+        <!--begin::Copyright-->
+        <div class="text-dark order-2 order-md-1">
+            <?php echo e(settings()->copyrights); ?>
+
+        </div>
+        <!--end::Copyright-->
+        <!--begin::Nav-->
+        <div class="nav nav-dark text-capitalize developer-company">
+            <a href="https://marwan.tech/ar/service-request" target="_blank" rel="noopener noreferrer">
+                <?php echo e(__('words.developed')); ?>
+
+            </a>
+        </div>
+        <!--end::Nav-->
+    </div>
+    <!--end::Container-->
+</div>
+<?php /**PATH E:\BasketBall\backend\resources\views/admin/includes/footer.blade.php ENDPATH**/ ?>

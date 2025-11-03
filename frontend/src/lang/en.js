@@ -1,0 +1,31 @@
+export const en = {
+  translation: {
+    Home: "Home",
+    "About Us": "About Us",
+    Gallery: "Gallery",
+    Reviews: "Reviews",
+    Others: "Others",
+    "View More": "View More",
+    "Learn More": "Learn More",
+    "Submit Information": "Submit Information",
+    "Get In Touch": "Get In Touch",
+    "Let's Get In Touch": "Let's Get In Touch",
+    "Information about us": "Information about us",
+    "Basket-Ball Benefits": "Basket-Ball Benefits",
+    "Basket-Ball Passion": "Basket-Ball Passion",
+    "Awesome Basket-Ball Photos": "Awesome Basket-Ball Photos",
+    "All Projects": "All Projects",
+    "Basket-ball Race": "Basket-ball Race",
+    "Kids Basket-ball": "Kids Basket-ball",
+    "We've Many More Then": "We've Many More Then",
+    "Basket-ball Images in Our Collection":
+      "Basket-ball Images in Our Collection",
+    "Happy Coaches": "Happy Coaches",
+    "Building Skills, Having Fun": "Building Skills, Having Fun",
+    "Future Hoopers in Action": "Future Hoopers in Action",
+    "Watch young athletes":
+      "Watch young athletes grow through teamwork, discipline, and passion. Our basketball program helps kids build confidence on and off the court Fun, fitness, and friendship—every game is a new adventure!",
+    Lesson: "Lesson",
+    Lessons: "Lessons",
+  },
+};
